@@ -9,7 +9,7 @@
 ---
 
 ### 📖 About Me
-I am a **Business Information Systems (MIS)** student based in **Egypt** 🇪🇬. My journey in web development is driven by a passion for creating seamless user experiences and robust backend architectures. Currently, I am bridging the gap between frontend aesthetics and backend logic.
+I am a **Business** student based in **Egypt** 🇪🇬. My journey in web development is driven by a passion for creating seamless user experiences and robust backend architectures. Currently, I am bridging the gap between frontend aesthetics and backend logic.
 
 - 🔭 **Currently working on:** Enhancing my JavaScript logic and building real-world projects.
 - 🌱 **Learning:** Deep diving into **Node.js**, **Express.js**, and **MongoDB**.
