@@ -55,7 +55,7 @@ My current focus is on building robust server-side logic using the **MERN stack*
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="https://www.linkedin.com/in/%20fahmy-omara" target="_blank">
+  <a href="www.linkedin.com/in/fahmy-omara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://khamsat.com/user/fahmy_omara2005" target="_blank">
