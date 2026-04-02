@@ -1,7 +1,8 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
-  ### 🚀 Frontend Developer | Learning Backend (Node.js) | Building production-ready web solutions
+  ### 🚀 Frontend Developer | Transitioning to Backend (Node.js) | Building production-ready web solutions
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Mastering+JavaScript+Fundamentals;Building+Scalable+Web+Apps;Learning+Node.js+%26+Express;Consistency+is+the+Key+to+Mastery)](https://git.io/typing-svg)
 </div>
@@ -9,11 +10,11 @@
 ---
 
 ### 📖 About Me
-I am a **Business** student based in **Egypt** 🇪🇬. My journey in web development is driven by a passion for creating seamless user experiences and robust backend architectures. Currently, I am bridging the gap between frontend aesthetics and backend logic.
+I am a passionate developer based in **Egypt** 🇪🇬, with a strong foundation in **Frontend Development** and a keen interest in expanding into **Backend Technologies**. My journey is driven by a desire to create seamless user experiences and robust, scalable backend architectures. Currently, I am actively bridging the gap between frontend aesthetics and backend logic to become a versatile Full-Stack Developer.
 
-- 🔭 **Currently working on:** Enhancing my JavaScript logic and building real-world projects.
-- 🌱 **Learning:** Deep diving into **Node.js**, **Express.js**, and **MongoDB**.
-- 🎯 **Goal:** To become a professional Full-Stack Developer delivering high-quality digital solutions.
+- 🔭 **Currently working on:** Enhancing my JavaScript logic and building real-world projects with a focus on backend integration.
+- 🌱 **Learning:** Deep diving into **Node.js**, **Express.js**, and **MongoDB** to build efficient server-side applications.
+- 🎯 **Goal:** To become a professional Full-Stack Developer, delivering high-quality digital solutions and contributing to impactful projects.
 - ⚡ **Fun Fact:** I believe that coding is 10% writing and 90% understanding the logic!
 
 ---
@@ -45,7 +46,8 @@ I am a **Business** student based in **Egypt** 🇪🇬. My journey in web devel
 ---
 
 ### 📂 Featured Projects
-*Check out some of my best work:*
+*Check out some of my work, showcasing both frontend and emerging backend skills:*
+- 🛒 **[Nammi-pilo](https://github.com/FahmyInTech/Nammi-pilo):** A competitive marketplace project. (Consider adding more details if it has backend components)
 - 👟 **[Nike Shop](https://github.com/FahmyInTech/Nike-shop):** A responsive e-commerce landing page.
 - 📊 **[Fitness Tracker](https://github.com/FahmyInTech/fitness-tracker-dashboard):** A dashboard for tracking daily activities.
 - 📝 **[To-Do List](https://github.com/FahmyInTech/To-Do-List-):** A clean and functional task management app.
@@ -54,13 +56,13 @@ I am a **Business** student based in **Egypt** 🇪🇬. My journey in web devel
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="https://www.linkedin.com/in/fahmy-omara/" target="_blank">
+  <a href="https://www.linkedin.com/in/%20fahmy-omara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~your_id" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  <a href="https://khamsat.com/user/fahmy_omara2005" target="_blank">
+    <img src="https://img.shields.io/badge/Khamsat-00B289?style=for-the-badge&logo=upwork&logoColor=white" alt="Khamsat" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:fahmyomara.eng@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
