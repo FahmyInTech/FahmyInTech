@@ -1,50 +1,72 @@
-# Hi there, I'm Fahmy Omara 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  ### 🚀 Frontend Developer | Learning Backend (Node.js) | Building production-ready web solutions
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Mastering+JavaScript+Fundamentals;Building+Scalable+Web+Apps;Learning+Node.js+%26+Express;Consistency+is+the+Key+to+Mastery)](https://git.io/typing-svg)
+</div>
 
-### 🚀 Frontend Developer | Learning Backend (Node.js) | Building production-ready web solutions
+---
 
-I am a Business student based in **Egypt** 🇪🇬, passionate about creating clean, efficient, and user-friendly web applications. My journey started with mastering the frontend, and I am currently deep-diving into the backend to become a **Full-Stack Developer specializing in Node.js**.
+### 📖 About Me
+I am a **Business Information Systems (MIS)** student based in **Egypt** 🇪🇬. My journey in web development is driven by a passion for creating seamless user experiences and robust backend architectures. Currently, I am bridging the gap between frontend aesthetics and backend logic.
+
+- 🔭 **Currently working on:** Enhancing my JavaScript logic and building real-world projects.
+- 🌱 **Learning:** Deep diving into **Node.js**, **Express.js**, and **MongoDB**.
+- 🎯 **Goal:** To become a professional Full-Stack Developer delivering high-quality digital solutions.
+- ⚡ **Fun Fact:** I believe that coding is 10% writing and 90% understanding the logic!
 
 ---
 
 ### 🛠️ Tech Stack
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode,figma,canva" alt="Current Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Learning Skills" />
+</div>
+
 | Category | Technologies |
 | :--- | :--- |
-| **Current (Frontend)** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Learning (Backend)** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), React.js |
+| **Backend (Learning)** | Node.js, Express.js, RESTful APIs, MongoDB |
+| **Tools & Design** | Git, GitHub, VS Code, Figma, Canva |
 
 ---
 
-### 🌱 What I'm Working On
-- 📚 **Mastering JavaScript Fundamentals:** Currently following Jonas Schmedtmann's comprehensive course to solidify my logic.
-- 💼 **Portfolio Projects:** Building real-world websites using **Vanilla JS** to demonstrate core proficiency.
-- 🚀 **Backend Transition:** Actively learning **Node.js** and **REST APIs** to build scalable server-side solutions.
-- 🎯 **Consistency:** Committed to daily coding to build a strong habit and professional growth.
+### 📈 GitHub Analytics & Consistency
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyInTech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyInTech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyInTech&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🧠 Interests & Focus
-- **Backend Architecture:** Designing clean and efficient server-side logic.
-- **Digital Solutions:** Bridging the gap between business needs (MIS) and technical implementation.
-- **Clean Code:** Writing maintainable, readable, and professional code.
-- **Personal Branding:** Building a strong presence as a developer.
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FahmyInTech&show_icons=true&theme=radical&hide_border=true" alt="Fahmy's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyInTech&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+### 📂 Featured Projects
+*Check out some of my best work:*
+- 👟 **[Nike Shop](https://github.com/FahmyInTech/Nike-shop):** A responsive e-commerce landing page.
+- 📊 **[Fitness Tracker](https://github.com/FahmyInTech/fitness-tracker-dashboard):** A dashboard for tracking daily activities.
+- 📝 **[To-Do List](https://github.com/FahmyInTech/To-Do-List-):** A clean and functional task management app.
 
 ---
 
 ### 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/fahmy-omara/)
-- 🚀 [Upwork Profile](https://www.upwork.com/freelancers/~your_id)
+<div align="left">
+  <a href="https://www.linkedin.com/in/fahmy-omara/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~your_id" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-### ⚡ Fun Fact
-I believe that consistency is the key to mastery. That's why I'm committed to daily coding and continuous learning!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FahmyInTech&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
