@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | Learning Backend (Node.js) | Building production-ready web solutions
 
-I am a Business Information Systems (MIS) student based in **Egypt** 🇪🇬, passionate about creating clean, efficient, and user-friendly web applications. My journey started with mastering the frontend, and I am currently deep-diving into the backend to become a **Full-Stack Developer specializing in Node.js**.
+I am a Business student based in **Egypt** 🇪🇬, passionate about creating clean, efficient, and user-friendly web applications. My journey started with mastering the frontend, and I am currently deep-diving into the backend to become a **Full-Stack Developer specializing in Node.js**.
 
 ---
 
