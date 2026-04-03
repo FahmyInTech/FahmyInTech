@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue,purple&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
   ### 🚀 Frontend Developer | Transitioning to Backend (Node.js) | Building production-ready web solutions
   
@@ -47,10 +47,10 @@ My current focus is on building robust server-side logic using the **Node.js eco
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyInTech&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyInTech&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahmyInTech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahmyInTech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyInTech&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmyInTech&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
