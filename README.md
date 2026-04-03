@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3399FF&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fahmy%20Omara&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
   
   ### 🚀 Frontend Developer | Transitioning to Backend (Node.js) | Building production-ready web solutions
   
