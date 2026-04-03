@@ -59,9 +59,9 @@ My current focus is on building robust server-side logic using the **Node.js eco
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Nammi-pilo** | Competitive marketplace project. | React, Node.js, MongoDB | [View](https://github.com/FahmyInTech/Nammi-pilo) |
-| **Nike Shop** | Responsive e-commerce landing page. | HTML5, CSS3, JavaScript | [View](https://github.com/FahmyInTech/Nike-shop) |
-| **Fitness Tracker** | Dashboard for tracking daily activities. | HTML, CSS, JavaScript | [View](https://github.com/FahmyInTech/fitness-tracker-dashboard) |
+| **Fahmy-Omara** | My personal portfolio website. | HTML, CSS, JavaScript | [View](https://github.com/FahmyInTech/Fahmy-Omara) |
+| **khaledsaap-portfolio** | A portfolio website project. | HTML, CSS, JavaScript | [View](https://github.com/FahmyInTech/khaledsaap-portfolio) |
+| **To-Do-List** | A clean and functional task management app. | HTML, CSS, JavaScript | [View](https://github.com/FahmyInTech/To-Do-List-) |
 
 ---
 
