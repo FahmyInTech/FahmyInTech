@@ -13,12 +13,21 @@
 
 I am a passionate developer based in **Egypt** 🇪🇬, dedicated to creating efficient and scalable digital solutions. With a solid foundation in **Frontend Development**, I am currently focusing my efforts on mastering **Backend Technologies** to become a versatile **Full-Stack Developer**.
 
-My current focus is on building robust server-side logic using the **MERN stack** (MongoDB, Express, React - though focusing on the BE part, and Node.js). I enjoy solving complex problems and optimizing application performance.
+My current focus is on building robust server-side logic using the **Node.js ecosystem**. I enjoy solving complex problems and optimizing application performance.
 
 - 🔭 **Currently working on:** Integrating backend services with frontend interfaces and exploring RESTful API design.
 - 🌱 **Learning:** Deep diving into **Node.js**, **Express.js**, and **MongoDB** for secure and scalable backend development.
 - 🎯 **Goal:** To deliver high-quality, full-stack solutions that solve real-world problems.
 - ⚡ **Fun Fact:** I believe that coding is 10% writing and 90% understanding the logic!
+
+---
+
+### 🎯 Focus Areas (2026)
+- 🔐 **Authentication & Security** in Node.js applications.
+- 📊 **Database Design** and Optimization with MongoDB.
+- 🚀 **Microservices Architecture** and Scalability.
+- ⚡ **API Performance** and Rate Limiting.
+- 🧪 **Testing** with Jest and Mocha.
 
 ---
 
@@ -47,15 +56,18 @@ My current focus is on building robust server-side logic using the **MERN stack*
 ---
 
 ### 📂 Featured Projects
-- 🛒 **[Nammi-pilo](https://github.com/FahmyInTech/Nammi-pilo):** A competitive marketplace project showcasing frontend and initial backend integration.
-- 👟 **[Nike Shop](https://github.com/FahmyInTech/Nike-shop):** A responsive e-commerce landing page focused on UI/UX.
-- 📊 **[Fitness Tracker](https://github.com/FahmyInTech/fitness-tracker-dashboard):** A dashboard for tracking daily activities, demonstrating data visualization.
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Nammi-pilo** | Competitive marketplace project. | React, Node.js, MongoDB | [View](https://github.com/FahmyInTech/Nammi-pilo) |
+| **Nike Shop** | Responsive e-commerce landing page. | HTML5, CSS3, JavaScript | [View](https://github.com/FahmyInTech/Nike-shop) |
+| **Fitness Tracker** | Dashboard for tracking daily activities. | HTML, CSS, JavaScript | [View](https://github.com/FahmyInTech/fitness-tracker-dashboard) |
 
 ---
 
 ### 📫 Connect with me
 <div align="left">
-  <a href="href="https://www.linkedin.com/in/fahmy-omara" target="_blank">
+  <a href="https://www.linkedin.com/in/fahmy-omara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://khamsat.com/user/fahmy_omara2005" target="_blank">
